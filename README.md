@@ -2,6 +2,7 @@
 
 #### Track Your Finances with Ease
 This is a sleek and efficient Expense Tracker application built using React and Vite. Designed with simplicity and performance in mind, it helps you effortlessly manage your income and expenses, giving you a clear view of your financial health.
+<br><br>
 
 # ✨ Features
 
@@ -10,7 +11,7 @@ This is a sleek and efficient Expense Tracker application built using React and 
 - `Responsive Design`  &nbsp;&nbsp; :  &nbsp; <i> Seamless experience across devices.</i>
 - `Real-Time Calculations` &nbsp;&nbsp;  :  &nbsp; <i> Instant updates on your total balance and transaction summaries.</i>
 - `Modern UI` &nbsp;&nbsp;  :  &nbsp; <i> Clean and intuitive interface for a pleasant user experience.</i>
-
+<br>
 
 # 🛠️ Tech Stack
 
@@ -18,6 +19,7 @@ This is a sleek and efficient Expense Tracker application built using React and 
 - `Vite` &nbsp;&nbsp; : &nbsp; <i>For fast development and optimized builds.</i>
 - `Firebase` &nbsp;&nbsp; : &nbsp; <i>For real-time database, authentication, and hosting solutions.</i>
 - `Tailwind CSS` &nbsp;&nbsp; : &nbsp; <i>For creating modern and responsive designs with ease.</i>
+<br>
 
 # 🚀 How to Run Locally
 
@@ -55,6 +57,15 @@ npm i recharts
 npm run dev
 ```
 #### <i>Note - You'll Also Need To Create Firebase AC to Add Your Own API Key In Config.js</i> 
+<br>
 
-# 🌟 Video Showcase
+# 🧭 Video Showcase
 [ Video ](https://youtu.be/aX0ghI2_xcw)
+<br><br>
+
+# 🌟 PreView
+<br><br>
+![pic](https://github.com/MaZikal7nap/ExpenseTracker/blob/main/Signin.png)
+![pic](https://github.com/MaZikal7nap/ExpenseTracker/blob/main/Theme.png)
+![pic](https://github.com/MaZikal7nap/ExpenseTracker/blob/main/Home.png)
+![pic](https://github.com/MaZikal7nap/ExpenseTracker/blob/main/Withdraw.png)
