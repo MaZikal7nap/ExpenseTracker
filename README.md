@@ -56,5 +56,5 @@ npm run dev
 ```
 #### <i>Note - You'll Also Need To Create Firebase AC to Add Your Own API Key In Config.js</i> 
 
-# 🌟 Demo
-[ Demo Video ](https://youtu.be/aX0ghI2_xcw)
+# 🌟 Video Showcase
+[ Video ](https://youtu.be/aX0ghI2_xcw)
