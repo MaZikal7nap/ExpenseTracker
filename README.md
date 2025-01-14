@@ -25,7 +25,7 @@ This is a sleek and efficient Expense Tracker application built using React and 
 ```bash
 https://github.com/MaZikal7nap/ExpenseTracker.git
 ```
-### 2 - Navigate To The projecP Directory
+### 2 - Navigate To The project Directory
 ```bash
 cd ExpenseTracker
 ```
