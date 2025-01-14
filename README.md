@@ -20,6 +20,40 @@ This is a sleek and efficient Expense Tracker application built using React and 
 - `Tailwind CSS` &nbsp;&nbsp; : &nbsp; <i>For creating modern and responsive designs with ease.</i>
 
 # 🚀 How to Run Locally
+
 ### 1 - Clone Repo 
+```bash
+https://github.com/MaZikal7nap/ExpenseTracker.git
+```
+### 2 - Navigate To The projecP Directory
+```bash
+cd ExpenseTracker
+```
+### 3 - Install Dependencies
+```bash
+npm install
+npm install react-router-dom
+npm create vite@latest
+npm install firebase
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npx shadcn@latest init
+npx shadcn@latest add button
+npm i react-router
+npx shadcn@latest add dropdown-menu
+npx shadcn@latest add dialog
+npx shadcn@latest add dialog card
+npx shadcn@latest add label
+npx shadcn@latest add input
+npm i react-hot-toast
+npx shadcn@latest add textarea
+npx shadcn@latest add badge
+npm i recharts
+```
+### 4 - Start The Development Server
+```bash
+npm run dev
+```
 
 # 🌟 Demo
+[ Demo Video ](https://youtu.be/aX0ghI2_xcw)
