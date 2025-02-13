@@ -26,7 +26,7 @@ export default function SignIn() {
                         const account = {
                             name: displayName,
                             userId: uid,
-                            depositAmount: 0,
+                            DepositAmount: 0,
                             photo: photoURL,
                             savingTarget: 0,
                             monthlyAccountSavings: [],
