@@ -34,6 +34,9 @@ cd ExpenseTracker
 ### 3 - Install Dependencies
 ```bash
 npm install
+```
+### Only If [ npm install ] did'nt work for some reason
+```bash
 npm install react-router-dom
 npm create vite@latest
 npm install firebase
@@ -52,6 +55,7 @@ npx shadcn@latest add textarea
 npx shadcn@latest add badge
 npm i recharts
 ```
+
 ### 4 - Start The Development Server
 ```bash
 npm run dev
