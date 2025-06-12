@@ -63,7 +63,7 @@ npm i recharts
 ```bash
 npm run dev
 ```
-#### <i>Note - You'll Also Need To Create Firebase AC to Add Your Own API Key In Config.js</i> 
+#### <i>Note - You'll Also Need To Create Firebase AC to Add Your Own API Key nd Other Stuff Inside { const firebaseConfig } in src/Config.js </i> 
 <br>
 
 # 🧭 Live
