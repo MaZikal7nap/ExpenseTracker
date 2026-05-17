@@ -3,7 +3,7 @@
 ```bash
 https://expense-tracker-158d8.web.app
 ```
-#### Track Your Finances with Eases
+#### Track Your Finances with Ease
 This is a sleek and efficient Expense Tracker application built using React and Vite. Designed with simplicity and performance in mind, it helps you effortlessly manage your income and expenses, giving you a clear view of your financial health.
 <br><br>
 
